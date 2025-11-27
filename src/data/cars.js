@@ -8,7 +8,7 @@ export const cars = [
     gearbox: "Manuel",
     price: 120000,
     km: 68000,
-    image: "https://picsum.photos/seed/fiesta/800/500",
+    image: "src/assets/275702_2018_Ford_Fiesta.jpg",
     description: "Kompakt bybil med lavt forbrug og smart udstyr.",
   },
   {
@@ -20,7 +20,7 @@ export const cars = [
     gearbox: "Automatisk",
     price: 280000,
     km: 52000,
-    image: "https://picsum.photos/seed/a5/800/500",
+    image: "src/assets/im04260-1-audi-a5.jpg",
     description: "Luksus coupé med sportlige køreegenskaber.",
   },
   {
@@ -32,7 +32,7 @@ export const cars = [
     gearbox: "Automatisk",
     price: 165000,
     km: 31000,
-    image: "https://picsum.photos/seed/yaris/800/500",
+    image: "src/assets/IMG_6914-scaled-1.jpg",
     description: "Økonomisk og pålidelig hatchback med moderne features.",
   },
   {
@@ -44,7 +44,7 @@ export const cars = [
     gearbox: "Automatisk",
     price: 250000,
     km: 89000,
-    image: "https://picsum.photos/seed/x5/800/500",
+    image: "src/assets/Used-2017-BMW-X5-sDrive35i-1685568039.jpg",
     description: "Stor SUV med komfort og kraft.",
   },
   {
@@ -56,7 +56,7 @@ export const cars = [
     gearbox: "Manuel",
     price: 150000,
     km: 74000,
-    image: "https://picsum.photos/seed/golf/800/500",
+    image: "src/assets/0cf1f013-6a76-441f-a274-866abc43f1c2_vw-golf-vii-1-5-tsi-130-comfortline-dsg.jpg",
     description: "Alsidig favorit med solid kvalitet.",
   },
 ];
